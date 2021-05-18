@@ -1,0 +1,35 @@
+ body {
+   background-color:rgb(173, 230, 187);
+   color: black;
+   margin: 0;
+   text-align: center;
+    }
+
+.nav-list  {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  overflow: hidden;
+}
+
+.nav-list li {
+  float: left;
+  padding: 5px;
+  margin: 0 8px;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: white;
+  letter-spacing: 1.2px;
+}
+
+h1 {
+  clear: both;
+}
+
+main {
+  margin: 0 auto;
+  width: 75%;
+}
